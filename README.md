@@ -1,5 +1,5 @@
 <div align="center">
-# Tasks
+## Tasks
 </div>
 
 ### Cloning the repository
