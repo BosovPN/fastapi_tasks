@@ -12,26 +12,6 @@ Move into the directory where we have the project files :
 cd fastapi_tasks
 ```
 
-### Windows
-Create a virtual environment :
-```bash
-# Installing virtual environment
-pip install virtualenv
-
-# Then we create our virtual environment
-py -m venv venv
-```
-
-Activate the virtual environment :
-```bash
-.\venv\Scripts\activate
-```
-
-Install the requirements :
-```bash
-pip install -r requirements.txt
-```
-
 ### Running the App
 
 Creating a docker image
